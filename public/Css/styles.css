@@ -48,7 +48,7 @@ header nav ul li a:hover {
 /* Estilo da Seção de Notícias */
 #noticias {
     background-color: #fff;
-    padding: 50px 0;
+    padding: 350px 0;
     text-align: center;
 }
 
@@ -126,7 +126,7 @@ header nav ul li a:hover {
 /* Estilo da seção Sobre */
 #sobre {
     background-color: #f8f8f8;
-    padding: 50px 0;
+    padding: 350px 0;
     text-align: center;
 }
 
@@ -145,7 +145,7 @@ header nav ul li a:hover {
 /* Estilo da seção Contato */
 #contato {
     background-color: #fff;
-    padding: 50px 0;
+    padding: 125px 0;
     text-align: center;
 }
 
@@ -197,7 +197,7 @@ footer {
     color: white;
     padding: 20px 0;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 footer p {
